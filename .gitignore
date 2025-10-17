@@ -1,0 +1,28 @@
+# Flutter
+.dart_tool/
+.packages
+.buildlog/
+.flutter-plugins
+.flutter-plugins-dependencies
+.melos_tool/
+.flutter-versions
+
+# Builds
+build/
+ios/Pods/
+macos/Pods/
+**/DerivedData/
+*.xcworkspace/
+*.xcuserdatad/
+*.iml
+
+# IDE
+.idea/
+.vscode/
+.DS_Store
+
+# Divers
+.pub-cache/
+*.log
+*.keystore
+*.jks
